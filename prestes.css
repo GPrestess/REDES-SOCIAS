@@ -4,7 +4,9 @@ body{
     background-color: rgba(182, 182, 182, 0.797);
     background-image: url(imagem-de-fundo.png);
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: cover;
+    min-width: 90vw;
+    min-height: 90vh;
 }
 
 main{
